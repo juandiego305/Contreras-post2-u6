@@ -1,0 +1,10 @@
+com\universidad\antipatrones\ComandoPedido.class
+com\universidad\antipatrones\ProcesadorPedidos.class
+com\universidad\antipatrones\DescuentoPremium.class
+com\universidad\antipatrones\SelectorEstrategia.class
+com\universidad\antipatrones\Main.class
+com\universidad\antipatrones\DescuentoVIP.class
+com\universidad\antipatrones\EstrategiaDescuento.class
+com\universidad\antipatrones\DescuentoEstandar.class
+com\universidad\antipatrones\ComandoProcesarPedido.class
+com\universidad\antipatrones\Pedido.class
