@@ -14,7 +14,11 @@ El `ProcesadorPedidos` original presentaba **6 niveles de anidamiento** de condi
 - **Antes**: Lógica principal con 6 niveles de anidamiento.
 - **Después**: Lógica principal con **0 niveles de anidamiento** (flujo lineal).
 
+<img width="1204" height="759" alt="image" src="https://github.com/user-attachments/assets/33248c95-fa80-44b8-a89a-e23f0bc88237" />
+
 ## 🚀 Ejecución
 ```bash
 mvn clean compile && mvn exec:java
-<img width="1204" height="759" alt="image" src="https://github.com/user-attachments/assets/0ac772f8-2d4a-40c8-bb0a-0f0a6da9b886" />
+
+
+
